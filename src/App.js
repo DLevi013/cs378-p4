@@ -169,7 +169,7 @@ function App() {
     console.log("intlong" + intLong);
     
 
-
+    setCount(count + 1);
     try {
       let response = await axios.get('https://api.open-meteo.com/v1/forecast', {
         params:{
