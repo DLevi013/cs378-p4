@@ -1,0 +1,32 @@
+/* 
+  Style your elements by creating CSS classes here.
+  Below, you can see an example of a class called "menu" that changes the color of the text to blue. Modify according to your needs.
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+/* .houseLogo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 300px;
+} */
+
+.locations{
+  /* display: flex; */
+  /* text-align: center; */
+  padding-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  width: 100px;
+}
+
+.timeandtemp{
+  text-align: center;
+  padding: 100px;
+
+}
+
+
+
